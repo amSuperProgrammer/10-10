@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9bcf978c1bd912349950952e2e6e7c48
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - onePoseCube: {fileID: 6843623984087729245, guid: ce79519fad6530140a484237dab9af4b, type: 3}
+  - twoPoseCube: {fileID: 346260830493998533, guid: 546e9278d7211ca45afdfe053e85a82c, type: 3}
+  - threePoseCube: {fileID: 3253358257735941604, guid: 76cce93fa0fe169458d6c2676671bfe7, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
